@@ -25,6 +25,8 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 
 ## Fase Nacional
 
+- [(Nacional) Maratona de Programação 2002]()
+- [(Nacional) Maratona de Programação 2003]()
 - [(Nacional) Maratona de Programação 2004]()
 - [(Nacional) Maratona de Programação 2005]()
 - [(Nacional) Maratona de Programação 2006]()
