@@ -1,6 +1,6 @@
 ## Maratona de Programação 2008
 
-- [**x**] Apagando e Ganhando (Difícil)
+- [x] Apagando e Ganhando (Difícil)
 - [ ] Babel (Difícil)
 - [ ] O Salão do Clube (Difícil)
 - [x] Dama (Fácil)
