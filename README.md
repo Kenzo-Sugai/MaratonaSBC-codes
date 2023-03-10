@@ -1,6 +1,8 @@
 # MaratonaSBC-codes
 Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação da SBC.
 
+## Fase Regional
+
 - [(Regional) Maratona de Programação 2004](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202004) (2/8)
 - [(Regional) Maratona de Programação 2005](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202005) (1/5)
 - [(Regional) Maratona de Programação 2006](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202006) (2/5)
@@ -20,6 +22,8 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 - (Regional) Maratona de Programação 2020 (?/?)
 - (Regional) Maratona de Programação 2021 (?/?)
 - [(Regional) Maratona de Programação 2022](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202022) (4/14)
+
+## Fase Nacional
 
 - [(Nacional) Maratona de Programação 2004]()
 - [(Nacional) Maratona de Programação 2005]()
