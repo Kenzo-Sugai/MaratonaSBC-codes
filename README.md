@@ -3,7 +3,7 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 
 ## Fase Zero
 
-- [(Zero) Maratona de Programação 2022]()
+- [(Zero) Maratona de Programação 2022](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Zero%20Maratona%20de%20Programa%C3%A7%C3%A3o%202022)
 
 ## Fase Regional
 
