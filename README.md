@@ -25,8 +25,8 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 
 ## Fase Nacional
 
-- [(Nacional) Maratona de Programação 2002]()
-- [(Nacional) Maratona de Programação 2003]()
+- [(Nacional) Maratona de Programação 2002](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202002)
+- [(Nacional) Maratona de Programação 2003](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202003)
 - [(Nacional) Maratona de Programação 2004]()
 - [(Nacional) Maratona de Programação 2005]()
 - [(Nacional) Maratona de Programação 2006]()
