@@ -1,4 +1,4 @@
-## Nacional Maratona de Programação 2019
+## Fase Nacional da Maratona de Programação 2019
 
 - [ ] Algorithm Teaching
 - [ ] Build the Perfect House
