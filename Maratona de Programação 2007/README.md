@@ -1,4 +1,4 @@
-## Maratona de Programação 2007
+## Fase Regional da Maratona de Programação 2007
 
 - [ ] Onde Estão as Bolhas? (Difícil)
 - [ ] Mário (Difícil)
