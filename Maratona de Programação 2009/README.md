@@ -1,4 +1,4 @@
-## Maratona de Programação 2009
+## Fase Regional da Maratona de Programação 2009
 
 - [ ] Fulminante (Difícil)
 - [x] Alarme Despertador (Fácil)
