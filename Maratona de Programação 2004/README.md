@@ -1,4 +1,4 @@
-## Maratona de Programação 2004
+## Fase Regional da Maratona de Programação 2004
 
 - [ ] Caixas Muito Especiais (Difícil)
 - [ ] Química (Difícil)
