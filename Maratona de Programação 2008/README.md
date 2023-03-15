@@ -1,4 +1,4 @@
-## Maratona de Programação 2008
+## Fase Regional da Maratona de Programação 2008
 
 - [x] Apagando e Ganhando (Difícil)
 - [ ] Babel (Difícil)
