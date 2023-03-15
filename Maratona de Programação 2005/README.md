@@ -1,4 +1,4 @@
-## Maratona de Programação 2005
+## Fase Regional da Maratona de Programação 2005
 
 - [ ] Cubos Coloridos (Difícil)
 - [ ] Gerente de Espaço (Difícil)
