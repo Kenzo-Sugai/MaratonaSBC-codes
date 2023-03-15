@@ -1,4 +1,4 @@
-## Maratona de Programação 2010
+## Fase Regional da Maratona de Programação 2010
 
 - [x] Revisão de Contrato (Médio)
 - [x] Robô Colecionador (Fácil)
