@@ -1,4 +1,4 @@
-## Maratona de Programação 2006
+## Fase Regional da Maratona de Programação 2006
 
 - [ ] Fechem as Portas! (Fácil)
 - [ ] MegaDamas (Médio)
