@@ -1,4 +1,4 @@
-## Nacional Maratona de Programação 2016
+## Fase Nacional da Maratona de Programação 2016
 
 - [x] Assigning Teams
 - [ ] Back to the Future
