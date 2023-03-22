@@ -49,4 +49,4 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 - [(Nacional) Maratona de Programação 2019](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202019) (1/12)
 - [(Nacional) Maratona de Programação 2020](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202020) (?/?)
 - [(Nacional) Maratona de Programação 2021](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202021) (2/13)
-- [(Nacional) Maratona de Programação 2022](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202022) (?/?)
+- [(Nacional) Maratona de Programação 2022](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Nacional%20Maratona%20de%20Programa%C3%A7%C3%A3o%202022) (2/13)
