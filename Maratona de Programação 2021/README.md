@@ -1,0 +1,15 @@
+## Fase Regional da Maratona de Programação 2021
+
+- [ ] Alocação de Prêmios (Difícil)
+- [ ] Belas Palavras (Difícil)
+- [ ] Criando Multiplos (Médio)
+- [ ] Dividindo o Reino (Difícil)
+- [ ] Escada Rolante (Médio)
+- [ ] Fuga da Prisão (Difícil)
+- [ ] Garantindo o Treino (Difícil)
+- [ ] Haja Ordenação (Fácil)
+- [ ] Invertendo Ferrovias (Difícil)
+- [ ] Jogo Duro (Díficil)
+- [x] Katmandu (Fácil)
+- [ ] Lembre sua Senha (Difícil)
+- [ ] Monarquia em Vertigem (Difícil)
