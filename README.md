@@ -24,7 +24,7 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 - [(Regional) Maratona de Programação 2018](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202018) (3/13)
 - [(Regional) Maratona de Programação 2019](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202019) (4/12)
 - (Regional) Maratona de Programação 2020 (?/?)
-- (Regional) Maratona de Programação 2021 (?/?)
+- [(Regional) Maratona de Programação 2021](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202021) (1/13)
 - [(Regional) Maratona de Programação 2022](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202022) (4/14)
 
 ## Fase Nacional
