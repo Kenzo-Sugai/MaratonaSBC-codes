@@ -8,7 +8,7 @@
 - [ ] Favorite Tree
 - [ ] Gravitational Wave Detector
 - [ ] Horse Race
-- [ ] Italian Calzone & Pasta Corner
+- [x] Italian Calzone & Pasta Corner
 - [ ] Joining a Marathon
 - [ ] Kind Baker
 - [ ] Lazy Printing
