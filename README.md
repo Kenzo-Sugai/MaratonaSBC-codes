@@ -13,7 +13,7 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 - [(Regional) Maratona de Programação 2007](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202007) (2/11)
 - [(Regional) Maratona de Programação 2008](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202008) (2/10)
 - [(Regional) Maratona de Programação 2009](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202009) (3/8)
-- [(Regional) Maratona de Programação 2010](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202010) (4/11)
+- [(Regional) Maratona de Programação 2010](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202010) (5/11)
 - [(Regional) Maratona de Programação 2011](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202011) (4/8)
 - [(Regional) Maratona de Programação 2012](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202012) (1/12)
 - [(Regional) Maratona de Programação 2013](https://github.com/Kenzo-Sugai/MaratonaSBC-codes/tree/main/Maratona%20de%20Programação%202013) (3/10)
