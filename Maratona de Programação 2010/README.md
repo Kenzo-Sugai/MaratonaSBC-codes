@@ -8,6 +8,6 @@
 - [ ] Fórmula 1 (Fácil)
 - [ ] Guerra nas Estrelas (Médio)
 - [ ] Plágio Musical (Difícil)
-- [ ] Ir e Vir (Fácil)
+- [x] Ir e Vir (Fácil)
 - [ ] Leitura Ótica (Fácil)
 - [ ] Jogo da Velha (Difícil)
