@@ -9,5 +9,5 @@
 - [ ] Guerra nas Estrelas (Médio)
 - [ ] Plágio Musical (Difícil)
 - [x] Ir e Vir (Fácil)
-- [ ] Leitura Ótica (Fácil)
+- [x] Leitura Ótica (Fácil)
 - [ ] Jogo da Velha (Difícil)
