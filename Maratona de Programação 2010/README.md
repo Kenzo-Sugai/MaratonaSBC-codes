@@ -1,13 +1,13 @@
-## Fase Regional da Maratona de Programação 2010
+# Fase Regional da Maratona de Programação 2010
 
-- [x] Revisão de Contrato (Médio)
-- [x] Robô Colecionador (Fácil)
-- [ ] Livro-Caixa (Médio)
-- [x] Desvio de Rota (Fácil)
-- [x] Elevador (Difícil)
-- [ ] Fórmula 1 (Fácil)
-- [ ] Guerra nas Estrelas (Médio)
-- [ ] Plágio Musical (Difícil)
-- [x] Ir e Vir (Fácil)
-- [x] Leitura Ótica (Fácil)
-- [ ] Jogo da Velha (Difícil)
+* [x] Revisão de Contrato
+* [x] Robô Colecionador
+* [ ] Livro-Caixa
+* [x] Desvio de Rota
+* [x] Elevador
+* [ ] Fórmula 1
+* [ ] Guerra nas Estrelas
+* [ ] Plágio Musical
+* [x] Ir e Vir
+* [x] Leitura Ótica
+* [ ] Jogo da Velha
