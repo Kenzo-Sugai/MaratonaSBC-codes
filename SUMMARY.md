@@ -8,6 +8,7 @@
 * [Fase Regional da Maratona de Programação 2008](<Maratona de Programação 2008/README.md>)
 * [Fase Regional da Maratona de Programação 2009](<Maratona de Programação 2009/README.md>)
 * [Fase Regional da Maratona de Programação 2010](<Maratona de Programação 2010/README.md>)
+* [Fase Regional da Maratona de Programação 2011](page-1-1.md)
 * [Fase Regional da Maratona de Programação 2018](<Maratona de Programação 2018/README.md>)
 * [Fase Regional da Maratona de Programação 2021](<Maratona de Programação 2021/README.md>)
 * [Fase Regional da Maratona de Programação 2022](<Maratona de Programação 2022/README.md>)
@@ -17,4 +18,3 @@
 * [Fase Nacional da Maratona de Programação 2022](<Nacional Maratona de Programação 2022/README.md>)
 * [Fase Zero da Maratona de Programação 2022](<Zero Maratona de Programação 2022/README.md>)
 * [Fase Regional da Maratona de Programação 20](page-1.md)
-* [Page 1](page-1-1.md)
