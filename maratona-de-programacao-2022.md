@@ -1,0 +1,16 @@
+## Fase Regional da Maratona de Programação 2022
+
+- [x] Achando os Monótonos Não-Triviais Maximais (fácil)
+- [ ] Brincando com Pedras (Difícil)
+- [ ] Cortes a Laser (Difícil)
+- [ ] Deslocando Partículas (Médio)
+- [x] Estourando Balões (Médio)
+- [ ] Forca Multidimensional (Difícil)
+- [ ] Geometria Triangular (Difícil)
+- [ ] Habilitando a Movimentação (Difícil)
+- [x] Interceptando Informações (Fácil)
+- [x] Jogando 23 (Médio)
+- [ ] Kalel, o Sapo Saltador (Difícil)
+- [ ] Listando Caminhos Tediosos (Difícil)
+- [ ] Maratona de Amarelinha (Difícil)
+- [ ] Números Virados (Difícil)
