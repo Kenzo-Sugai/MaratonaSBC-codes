@@ -14,7 +14,7 @@
 * [ ] Linhas de Metrô (Difícil)
 * [ ] Modificando SAT (Médio)
 
-## Desvendando Monty Hall
+## Desvendando Monty Halll
 
 ```cpp
 #include <iostream>
