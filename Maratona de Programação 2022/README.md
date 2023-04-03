@@ -1,6 +1,7 @@
 # Fase Regional da Maratona de Programação 2022
 
-* [x] Achando os Monótonos Não-Triviais Maximais
+Achando os Monótonos Não-Triviais Maximais
+
 * [ ] Brincando com Pedras&#x20;
 * [ ] Cortes a Laser
 * [ ] Deslocando Partículas
@@ -12,5 +13,5 @@
 * [x] Jogando 23
 * [ ] Kalel, o Sapo Saltador
 * [ ] Listando Caminhos Tediosos
-* [ ] Maratona de Amarelinha (Difícil)
-* [ ] Números Virados (Difícil)
+* [ ] Maratona de Amarelinha
+* [ ] Números Virados
