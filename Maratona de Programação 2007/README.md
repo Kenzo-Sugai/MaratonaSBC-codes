@@ -1,15 +1,15 @@
 # Fase Regional da Maratona de Programação 2007
 
-* [ ] Onde Estão as Bolhas? (Difícil)
-* [ ] Mário (Difícil)
-* [x] Zak Galou (Difícil)
-* [ ] Desempilhando Caixas (Difícil)
-* [x] Histórico de Comandos (Médio)
-* [ ] Olimpíadas (Médio)
-* [ ] Série de Tubos (Médio)
-* [ ] Jogo de Varetas (Fácil)
-* [ ] Vôlei Marciano (Médio)
-* [ ] Rouba Monte (Médio)
+* [ ] Onde Estão as Bolhas?
+* [ ] Mário
+* [x] Zak Galou
+* [ ] Desempilhando Caixas
+* [x] Histórico de Comandos
+* [ ] Olimpíadas
+* [ ] Série de Tubos
+* [ ] Jogo de Varetas
+* [ ] Vôlei Marciano
+* [ ] Rouba Monte
 
 ## Histórico de Comandos
 

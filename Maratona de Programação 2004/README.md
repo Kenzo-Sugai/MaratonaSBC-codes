@@ -1,13 +1,13 @@
 # Fase Regional da Maratona de Programação 2004
 
-* [ ] Caixas Muito Especiais (Difícil)
-* [ ] Química (Difícil)
-* [ ] Drop Out (Médio)
-* [ ] Vá com Calma (Difícil)
-* [x] Cara ou Coroa (Fácil)
-* [x] Ajude! (Fácil)
-* [ ] Apresse-se! (Difícil)
-* [ ] Patrulheiros Romanos (Difícil)
+* [ ] Caixas Muito Especiais
+* [ ] Química
+* [ ] Drop Out
+* [ ] Vá com Calma
+* [x] Cara ou Coroa
+* [x] Ajude!
+* [ ] Apresse-se!
+* [ ] Patrulheiros Romanos
 
 ## Cara ou Coroa
 
