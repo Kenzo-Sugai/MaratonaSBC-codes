@@ -1,18 +1,18 @@
 # Fase Regional da Maratona de Programação 2018
 
-* [ ] Aventurando-se no Slackline (Médio)
-* [ ] Bolinhas de Gude (Difícil)
-* [ ] Cortador de Pizza (Difícil)
-* [x] Desvendando Monty Hall (Fácil)
-* [x] Enigma (Fácil)
-* [ ] Festival (Difícil)
-* [ ] Gasolina (Difícil)
-* [ ] Hipótese Policial (Difícil)
-* [x] Interruptores (Médio)
-* [ ] Juntando Capitais (Difícil)
-* [ ] Kepler (Difícil)
-* [ ] Linhas de Metrô (Difícil)
-* [ ] Modificando SAT (Médio)
+* [ ] Aventurando-se no Slackline
+* [ ] Bolinhas de Gude
+* [ ] Cortador de Pizza
+* [x] Desvendando Monty Hall
+* [x] Enigma
+* [ ] Festival
+* [ ] Gasolina
+* [ ] Hipótese Policial
+* [x] Interruptores
+* [ ] Juntando Capitais
+* [ ] Kepler
+* [ ] Linhas de Metrô
+* [ ] Modificando SAT
 
 ## Desvendando Monty Halll
 
