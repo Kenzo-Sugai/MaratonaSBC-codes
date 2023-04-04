@@ -125,3 +125,124 @@ int main(){
 	return 0;
 }
 ```
+
+## Tri-du
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    
+ int A, B;
+ cin >> A >> B;
+ if(A >= B) cout << A << endl;
+ else cout << B << endl;
+}
+```
+
+## Fatorial
+
+```cpp
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+long long int N;
+
+vector<long long int> Fatorial;
+
+int main(){
+    cin >> N;
+    long long int total = 1;
+    for(int i = 1; i <= 10; i++){
+        total *= i;
+        Fatorial.push_back(total);
+    }
+    int t = 0;
+    while(N != 0){
+        for(int i = 9; i >= 0; i--){
+            if(N - Fatorial[i] >= 0){
+                t++;
+                N -= Fatorial[i];
+                break;
+            }
+        }
+    }
+    cout << t << endl;
+
+}
+
+
+```
+
+## Praça do Retângulo
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+struct cord {
+    int x, y;
+};
+
+bool comp(cord a, cord b){
+    
+    if(a.x == b.x)
+        return a.y < b.y;
+
+    return a.x < b.x;
+}
+
+int main(){
+
+    int N, x, y, maxY = 0, minY = 0;
+
+    cin >> N;
+
+    vector<cord> points;
+
+    while(N--){
+
+        scanf("%d %d", &x, &y);
+        points.push_back({x, y});
+        maxY = max(maxY, y);
+        minY = min(minY, y);
+
+    }
+
+    sort(points.begin(), points.end(), comp);
+
+    int ret = 0;
+
+    for(int i = 0; i < points.size(); i++){
+
+        int maxi = maxY+1, mini = minY-1;
+
+        for(int j = i+1; j < points.size(); j++){
+            
+            if(points[j].y > points[i].y && points[j].y < maxi){
+                maxi = points[j].y;
+                ret++;
+           
+            }
+            if(points[j].y < points[i].y && points[j].y > mini){
+                mini = points[j].y;
+                ret++;
+            
+            }
+
+        }
+
+    }
+
+    cout << ret << endl;
+
+
+}c++
+```
