@@ -6,19 +6,19 @@ Códigos desenvolvidos resolvendo alguns problemas da Maratona de Programação 
 
 | Ano                                          | Exercícios Resolvidos |
 | -------------------------------------------- | --------------------- |
-| [2022](zero-maratona-de-programacao-2022.md) | 5/12                  |
+| [2022](<Zero Maratona de Programação 2022/>) | 5/12                  |
 
 ## Fase Regional
 
 | Ano                                     | Exercícios Resolvidos |
 | --------------------------------------- | --------------------- |
-| [2004](maratona-de-programacao-2004.md) | 2/8                   |
-| [2005](maratona-de-programacao-2005.md) | 1/5                   |
-| [2006](maratona-de-programacao-2006.md) | 2/5                   |
-| [2007](maratona-de-programacao-2007.md) | 2/11                  |
-| [2008](maratona-de-programacao-2008.md) | 2/10                  |
-| [2009](maratona-de-programacao-2009.md) | 3/8                   |
-| [2010](maratona-de-programacao-2010.md) | 6/11                  |
+| [2004](<Maratona de Programação 2004/>) | 2/8                   |
+| [2005](broken-reference)                | 1/5                   |
+| [2006](<Maratona de Programação 2006/>) | 3/10                  |
+| [2007](broken-reference)                | 2/11                  |
+| [2008](broken-reference)                | 2/10                  |
+| [2009](broken-reference)                | 3/8                   |
+| [2010](broken-reference)                | 6/11                  |
 | 2011                                    | 4/8                   |
 | 2012                                    | 1/12                  |
 | 2013                                    | 3/10                  |
