@@ -4,6 +4,17 @@
 
 using namespace std;
 
+unordered_map<int, vector<int>> ordem {
+
+    {1, {2, 6, 4, 5}},
+    {2, {5, 2, 6, 1}},
+    {3, {2, 5, 4, 6}},
+    {4, {3, 5, 1, 6}},
+    {5, {2, 1, 4, 3}},
+    {6, {2, 1, 4, 3}}
+
+};
+
 void inputCube(vector<vector<vector<char>>> &cube){
 
     char c;
@@ -68,6 +79,8 @@ void rotateCube(vector<vector<vector<char>>> &cube, int r){
     }
     else{
 
+        r--;
+
         for(int j = 0; j < 3; j++){
             for(int i = 2, k = 0; i >= 0; i--, k++){
                 M[j][k] = cube[r][i][j];
@@ -114,7 +127,7 @@ int main(){
 
         }
 
-        rotateCube(cubo, 1);
+        rotateCube(cubo, 2);
 
         for(int k = 0; k < 6; k++){
 
