@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <unordered_map>
 
 using namespace std;
 
@@ -41,6 +43,13 @@ void inputCube(vector<vector<vector<char>>> &cube){
 
 }
 
+void rotateAdj(vector<vector<vector<char>>> &cube, int r){
+
+    return;
+
+}
+
+
 void rotateCube(vector<vector<vector<char>>> &cube, int r){
 
     vector<vector<char>> M(3);
@@ -56,15 +65,21 @@ void rotateCube(vector<vector<vector<char>>> &cube, int r){
                 M[k][i] = cube[r][i][j];
             }
         }
-
-        cube[r] = M;
-
     }
     else{
 
+        for(int j = 0; j < 3; j++){
+            for(int i = 2, k = 0; i >= 0; i--, k++){
+                M[j][k] = cube[r][i][j];
+            }
+        }
+
     }
 
+    cube[r] = M;
+
 }
+
 
 int main(){
 
@@ -99,7 +114,7 @@ int main(){
 
         }
 
-        rotateCube(cubo, -5);
+        rotateCube(cubo, 1);
 
         for(int k = 0; k < 6; k++){
 
