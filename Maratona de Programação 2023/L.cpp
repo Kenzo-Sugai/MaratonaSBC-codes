@@ -1,75 +1,48 @@
-#include <iostream>
-#include <algorithm>
-#include <map>
-#include <queue>
-#include <vector>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-map<char, queue<int>> hashing;
+int main() {
 
-void getIndex(string &word){
+    string pal;
+    int k;
 
-    for(int i = 0; i < word.size(); i++){
+    cin >> pal; cin >> k;
 
-        hashing[word[i]].push(i);
-
+    if(k==1){
+        sort(pal.begin(), pal.end());
+        cout << pal << endl;
+        return 0;
+    }
+    if(k == pal.size()-1){
+        if(pal[0] > pal[pal.size()-1]){
+            swap(pal[0], pal[pal.size()-1]);
+        }
+        cout << pal <<  endl;
+        return 0;
     }
 
-}
+    vector<string> hist(k, "");
+    int index = 0;
 
-int main(){
-
-    string word;
-    int jump;
-
-    cin >> word;
-    cin >> jump;
-
-    int wordSize = word.size();
-
-    getIndex(word);
-
-    sort(word.begin(), word.end());
-
-    vector<int> cache(wordSize, 0);
-    vector<string> resp(wordSize, "");
-
-    for(int i = 0; i < word.size(); i++){
-
-        char letra = word[i];
-
-        int idx = hashing[letra].front();
-
-        int j = idx % jump;
-
-        if(!cache[j]){
-            cache[j] = jump;        
-        }
-        else{
-            if(cache[j] > word.size()){
-                j = idx;
-            }
-            else{
-                j = cache[j];
-                cache[j] += jump;
-            }
-        }
-
-        resp[j] = letra;
-
-        hashing[letra].pop();
-
+    for (int i = 0; i < pal.size(); i++){
+        hist[index] += pal[i];
+        index++;
+        index %=k;
+    }
+    for (int i = 0; i < k; i++){
+        sort(hist[i].begin(), hist[i].end());
     }
 
-    for(auto &x : resp) cout << x;
-
+    index=0;
+    for (int i = 0; i < pal.size(); i++) {
+        if(hist[index].size()>0){
+            cout << hist[index][0];
+            hist[index].erase(hist[index].begin());
+        }
+        index++;
+        index %=k;
+    }
     cout << endl;
-
-
-
-
-
-
-
+    return 0;
 }
